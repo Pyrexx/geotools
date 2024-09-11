@@ -1,12 +1,12 @@
 {
-    "name": "laravie/geotools",
+    "name": "pyrexx/geotools",
     "type": "library",
-    "description": "Geo-related tools PHP 7+ library",
+    "description": "Geo-related tools PHP 8+ library",
     "keywords": ["geotools", "geometry", "geoip", "bounds", "distance", "geohash", "latlong", "latitude", "longitude"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/laravie/geotools/issues",
-        "source": "https://github.com/laravie/geotools"
+        "issues": "https://github.com/Pyrexx/geotools/issues",
+        "source": "https://github.com/Pyrexx/geotools"
     },
     "authors": [
         {
