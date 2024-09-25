@@ -259,7 +259,7 @@ class Coordinate implements CoordinateInterface, \JsonSerializable
     /**
      * {@inheritDoc}
      */
-    public function jsonSerialize()
+    public function jsonSerialize(): array
     {
         return [$this->latitude, $this->longitude];
     }
